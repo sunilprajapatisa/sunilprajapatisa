@@ -1,4 +1,4 @@
-### 👋 I'm Sunil Prajapati, an iOS and React Native developer from Ahmedabad, India.
+### 👋  I'm an iOS and React Native developer from Ahmedabad, India.
 
 ## Skills
 
