@@ -1,8 +1,10 @@
-### 👋 I'm Sunil Prajapati, a iOS and React Native developer from Ahmedabad, India.
+### 👋 I'm Sunil Prajapati, an iOS and React Native developer from Ahmedabad, India.
 
+## Skills
 
-- 
+![iOS](https://img.shields.io/badge/-iOS-blue) ![Swift](https://img.shields.io/badge/-Swift-blueviolet)
 
+![ReactNative](https://img.shields.io/badge/React-Native-orange) ![CSS](https://img.shields.io/badge/-CSS-green) ![Javascript](https://img.shields.io/badge/-JavaScript-red) ![Redux](https://img.shields.io/badge/-Redux-purple)
 
 <!--
 **sunilprajapatisa/sunilprajapatisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
